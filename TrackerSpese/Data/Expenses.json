@@ -1,0 +1,35 @@
+{
+  "Expenses": [
+    {
+      "Id": 5,
+      "Description": "prova",
+      "Amount": -10,
+      "Date": "2025-03-25T14:40:58.5746446+01:00"
+    },
+    {
+      "Id": 6,
+      "Description": "prova",
+      "Amount": -156,
+      "Date": "2025-03-25T14:41:32.7929823+01:00"
+    },
+    {
+      "Id": 8,
+      "Description": "BonificoLavoro",
+      "Amount": 50,
+      "Date": "2025-03-25T14:51:18.8302295+01:00"
+    },
+    {
+      "Id": 9,
+      "Description": "gelatinoPerBaby",
+      "Amount": 3,
+      "Date": "2025-03-25T19:30:18.2814187+01:00"
+    },
+    {
+      "Id": 10,
+      "Description": "crocchiGattini",
+      "Amount": -20,
+      "Date": "2025-03-25T19:31:31.7303913+01:00"
+    }
+  ],
+  "TotalAmount": 285.01
+}
